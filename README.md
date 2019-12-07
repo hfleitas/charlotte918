@@ -5,5 +5,9 @@
 * [Session Details](https://www.sqlsaturday.com/918/Sessions/Details.aspx?sid=98487)
 
 ## Resources 
-[Slides](https://docs.google.com/presentation/d/1kVJ8SwzEw4h6S3y7eRebbL0s6NXoDYLvPXOOmkJ-Q5Y/edit?usp=sharing)
-[aka.ms/PowerUp](https://aka.ms/PowerUp)
+* [Slides](https://docs.google.com/presentation/d/1kVJ8SwzEw4h6S3y7eRebbL0s6NXoDYLvPXOOmkJ-Q5Y/edit?usp=sharing)
+* [aka.ms/PowerUp](https://aka.ms/PowerUp)
+* Repo: [GameChanger](https://github.com/hfleitas/gamechanger)
+
+## Author
+[Hiram Fleitas](https://twitter.com/hiramfleitas)
